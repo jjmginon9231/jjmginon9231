@@ -9,7 +9,7 @@ I'm JJ Ginon, a passionate web developer from Philippines. I love building cool 
 
 ## 🌱 What I'm Learning
 
-- JavaScript
+- JavaScript Algorithms and Data Structures
 
 ## 📚💡 My Interests
 
